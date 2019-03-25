@@ -16,6 +16,20 @@ This Project includes just one file:
 
 # Results
 
+One of the conclusions we can get from this project is the urgent need to simplify and reduce the data. As we can see in the image above, there are a lot of actions per session and even some sessions may belong to the same user.
+
+
+![Alt text](newplot.png?raw=true "Actions per session")
 ![Alt text](newplot.png?raw=true "Actions per session")
 
-The result of the analysis is a model reaching about 86% accuracy when predicting if a user is going to cancel it's subscription.
+
+If we also think about each action includes many data, it becomes very difficult to deal with it and to get some useful information from this.
+
+Besides, another difficulty has been to define the churn between all the information we had from the beginning. After that, we only have to use what we have learnt about Machine Learning to apply the best practices when training our models and compare the results.
+
+The models we've tried here are:
+ - LinearSVC
+ - LinearRegression
+ - RandomForestClassifier
+
+The result of the analysis is a model built with RandomForestClassifier reaching about 86% accuracy when predicting if a user is going to cancel it's subscription.
