@@ -38,4 +38,4 @@ The result of the analysis is a model built with RandomForestClassifier reaching
 You can find a blog post I created about this project [here](https://medium.com/@e.pinomorato/predict-user-churn-with-spark-913f237d6e74).
 
 ## Acknowledgements<a name="acknowledgements"></a>
-Fundamentally, I used [The Apache Spark documentation](https://spark.apache.org/docs/latest/)
+Fundamentally, I used [the Apache Spark documentation](https://spark.apache.org/docs/latest/).
