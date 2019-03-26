@@ -19,6 +19,7 @@ As one can imagine, there is a lot of data registering all the movements a user 
 ## Files <a name="files"></a>
 This Project includes just one file: 
  - Sparkify.ipynb: Jupyter Notebook containing all the code needed to develop each one of the steps to reach the objective of the project.
+ - Sparkify.html: HTML containing the image of the Jupyter Notebook.
 
 # Results <a name="results"></a>
 One of the conclusions we can get from this project is the urgent need to simplify and reduce the data, as there are a lot of actions per session and multiple sessions per user.
