@@ -8,17 +8,8 @@
 
 ## Libraries <a name="libraries"></a>
 For this project the necessary libraries used are:
- - pyspark
- - pyspark.sql
- - pyspark.sql.types
- - pyspark.sql.functions
- - pyspark.ml
- - pyspark.ml.feature
- - pyspark.ml.classification
- - pyspark.ml.tuning
- - pyspark.ml.evaluation
- - plotly.offline
- - plotly.graph_objs
+ - Pyspark (SQL and ML modules)
+ - Plotly
  
 ## Motivation <a name="motivation"></a>
 In this project we work with a music application data called Sparkify and our main goal is to predict whether a user is going to cancel its subscription or not.
