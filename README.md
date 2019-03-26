@@ -2,7 +2,7 @@
 
 1. [Installation](#libraries)
 2. [Project Motivation](#motivation)
-3. [Files Description](#files)
+3. [Files](#files)
 4. [Result](#results)
 5. [Acknowledgements](#acknowledgements)
 
@@ -44,4 +44,4 @@ The models we've tried here are:
 The result of the analysis is a model built with RandomForestClassifier reaching about 86% accuracy when predicting if a user is going to cancel it's subscription.
 
 ## Acknowledgements<a name="acknowledgements"></a>
-Fundamentally, I used [The Apache Spark documentation] (https://spark.apache.org/docs/latest/)
+Fundamentally, I used [The Apache Spark documentation](https://spark.apache.org/docs/latest/)
